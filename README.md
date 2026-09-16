@@ -14,8 +14,6 @@ This project demonstrates the use of Nmap (Network Mapper) to discover devices, 
 ## Step 1
 Set up and completed the installation of nmap directly on my host machine. 
 
-<img width="1902" height="991" alt="Zenmap 9_16_2026 11_39_19 PM" src="https://github.com/user-attachments/assets/501f65b8-de68-4754-9514-3251c1175fdf" />
-<img width="1902" height="991" alt="Zenmap 9_16_2026 11_38_46 PM" src="https://github.com/user-attachments/assets/b10ef4e9-030f-41dc-ade3-680d4ad9960c" />
 <img width="1920" height="1020" alt="Download the Free Nmap Security Scanner for Linux_Mac_Windows - Google Chrome 9_16_2026 11_41_47 PM" src="https://github.com/user-attachments/assets/00f22674-0edf-44f6-aae7-792f43c1fd17" />
 
 ## Step 2
@@ -32,11 +30,25 @@ I observed the topology and saved the diagram to a directory on my host system a
 
 <img width="1920" height="1020" alt="scan - Adobe Acrobat Reader (64-bit) 9_17_2026 12_26_23 AM" src="https://github.com/user-attachments/assets/148b90a8-22b1-47c1-acf5-7401a4920e03" />
 
+## Step 5
+Tested NMAP with other platforms where i had permission.
+
+<img width="1902" height="991" alt="Zenmap 9_16_2026 11_38_46 PM" src="https://github.com/user-attachments/assets/b10ef4e9-030f-41dc-ade3-680d4ad9960c" />
+
 # Tools Used
 1. Host Machine (Windows 11)
 2. Nmap/Zenmap
 
 # Conclusion
 This project provided practical experience with Nmap and basic network reconnaissance. It demonstrated how security analysts can use network scanning to identify active hosts, open ports, and running services within an authorized environment.
+
+# 👨‍🦰 Author
+### Chidozie Zoe Gospel
+Cybersecurity Professional B083
+
+LinkedIn: https://www.linkedin.com/in/chidozie-gospel/
+
+# Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: NETWORK SCANNING WITH ZENMAP  |  Repository: Github
 
 
