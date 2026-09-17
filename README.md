@@ -51,5 +51,10 @@ LinkedIn: https://www.linkedin.com/in/chidozie-gospel/
 # Project Information
 Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: NETWORK SCANNING WITH ZENMAP  |  Repository: Github
 
+# Project Report
+[W2-PM-FINAL-Report .pdf](https://github.com/user-attachments/files/32349093/W2-PM-FINAL-Report.pdf)
+
+
+
 
 
